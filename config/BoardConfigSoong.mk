@@ -37,6 +37,7 @@ SOONG_CONFIG_lineageGlobalVars += \
     gralloc_handle_has_custom_content_md_reserved_size \
     gralloc_handle_has_reserved_size \
     gralloc_handle_has_ubwcp_format \
+    target_libcameraservice_ext_lib \
     uses_miui_camera \
     spoof_first_api_level_32 \
     target_camera_package_name \
